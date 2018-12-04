@@ -1,0 +1,23 @@
+HistoryMaker Documentation (yes it’s just EveCaptcha but washed)
+
+First things first, download python 3 
+https://www.python.org/downloads/
+Open CMD (scroll down)
+
+
+Install required modules by typing “pip install modulegoeshere” (without quotations)
+PyInstaller,altgraph,bs4,certifi,chardet,easy_install,future,idna,libfuturize,libpasteurize,macholib,names,ordlookup,past,pefile,peutils,pip,pkg_resources,pyfiglet,requests,selenium 
+Idk what modules exactly so just download all of them lol
+If something is giving you an already installed error, then it probably is installed
+
+
+
+Download the Historymaker script and historywords.txt from here.
+Download both of them to the SAME FOLDER
+Navigate to the folder you’ve downloaded them in cmd by doing cd folderhere
+Type “python ‘historymaker.py’” (without the double quotes)
+
+Enter how many minutes you’d like to prepare for
+Sign into Google
+That’s it! The bot will take over from here.
+DM cabatchi#5390 with any questions you may have NOT RELATED TO INSTALLING PYTHON
